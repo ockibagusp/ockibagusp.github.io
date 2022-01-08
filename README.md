@@ -2,27 +2,27 @@
 
 ### List
 
-#### cloud-platform (pyhton)
+#### 1. cloud-platform (pyhton)
   Agrihub IoT Cloud-Platfrom Web API (Undergraduate Thesis). 
 
   >  [here](https://github.com/ockibagusp/cloud-platform)
   
-#### web-console (angular)
+#### 2. web-console (angular)
   Agrihub Web Console; code with Angular4, CoreUI and ❤ (Undergraduate Thesis). 
 
   >  [here](https://github.com/ockibagusp/web-console)
   
-#### hello (golang)
+#### 3. hello (golang)
   Golang Echo and html template.
 
   >  [here](https://github.com/ockibagusp/hello)
 
-#### php-realtime-notification (php)
+#### 4. php-realtime-notification (php)
   CodeIgniter + Jquery. Using AJAX Polling mechanism. 
 
   >  [here](https://github.com/ockibagusp/php-realtime-notification)
 
-#### django-crud-example (pyhton)
+#### 5. django-crud-example (pyhton)
   Best practice. Based on my own experience. 
 
   >  [here](https://github.com/ockibagusp/django-crud-example)
