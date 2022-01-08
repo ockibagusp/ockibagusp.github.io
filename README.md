@@ -1,6 +1,6 @@
-## Ocki Bagus Pratama - Back End Developer
+## Ocki Bagus Pratama - Back End Developer (golang)
 
-### List
+### GitHub Repositories:
 
 #### 1. cloud-platform (pyhton)
   Agrihub IoT Cloud-Platfrom Web API (Undergraduate Thesis). 
