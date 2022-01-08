@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Ocki Bagus Pratama - Back End Developer
 
-You can use the [editor on GitHub](https://github.com/ockibagusp/ockibagusp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### List
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### cloud-platform (pyhton)
+  Agrihub IoT Cloud-Platfrom Web API (Undergraduate Thesis). 
 
-### Markdown
+  >  [here](https://github.com/ockibagusp/cloud-platform)
+  
+#### web-console (angular)
+  Agrihub Web Console; code with Angular4, CoreUI and ❤ (Undergraduate Thesis). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  >  [here](https://github.com/ockibagusp/web-console)
+  
+#### hello (golang)
+  Golang Echo and html template.
 
-```markdown
-Syntax highlighted code block
+  >  [here](https://github.com/ockibagusp/hello)
 
-# Header 1
-## Header 2
-### Header 3
+#### php-realtime-notification (php)
+  CodeIgniter + Jquery. Using AJAX Polling mechanism. 
 
-- Bulleted
-- List
+  >  [here](https://github.com/ockibagusp/php-realtime-notification)
 
-1. Numbered
-2. List
+#### django-crud-example (pyhton)
+  Best practice. Based on my own experience. 
 
-**Bold** and _Italic_ and `Code` text
+  >  [here](https://github.com/ockibagusp/django-crud-example)
 
-[Link](url) and ![Image](src)
-```
+#### too much
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
+### Bahasa Indonesia
+Der Schlaganfall 03.10.2018-heute. Dirilis 7 Januari 2020. Coding ini sedikit lupa. Pun, itu Bahasa Inggris lupa lagi. Perlahan-lahan dari stroke. Aamiin.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ockibagusp/ockibagusp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### English (translate[.]google[.]co[.]id)
+Stroke: 03 10 2018-today. Released January 7, 2020. This coding is a little forgotten. This English forgot again. Little by little from stroke. Aamiin.
