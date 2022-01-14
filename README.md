@@ -1,6 +1,6 @@
 ## Ocki Bagus Pratama - Back End Developer (golang)
 
-### GitHub Repositories:
+### [GitHub Repositories](https://github.com/ockibagusp?tab=repositories):
 
 #### 1. cloud-platform (pyhton)
   Agrihub IoT Cloud-Platfrom Web API (Undergraduate Thesis). 
@@ -35,3 +35,6 @@ Der Schlaganfall 03.10.2018-heute. Coding ini sedikit lupa. Pun, ini Bahasa Ingg
 
 ### English (translate[.]google[.]co[.]id)
 Stroke: 03 10 2018-today. This coding is a little forgotten. This is English forgot again. Little by little from stroke. Aamiin.
+
+---
+[GitHub](https://github.com/ockibagusp) | [LinkedIn](https://www.linkedin.com/in/ockibagusp) | [Twitter](https://twitter.com/ockibagusp)
