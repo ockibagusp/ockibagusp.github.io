@@ -12,10 +12,10 @@
 
   >  [here](https://github.com/ockibagusp/web-console)
   
-#### 3. hello (golang)
+#### 3. golang-website-example (golang)
   Golang Echo and html template.
 
-  >  [here](https://github.com/ockibagusp/hello)
+  >  [here](https://github.com/ockibagusp/golang-website-example)
 
 #### 4. php-realtime-notification (php)
   CodeIgniter + Jquery. Using AJAX Polling mechanism. 
