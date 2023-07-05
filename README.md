@@ -29,16 +29,29 @@
 
 #### too much
 
+
+## Blog (ockibagusp.wordpress.com)
+
+> [here](https://ockibagusp.wordpress.com/)
+
 ---
 ### Bahasa Indonesia
-Saya sendang berjuang sembuh dari Stroke pada 03 Oktober 2018-hari ini. Coding ini sedikit lupa. Kata-katanya dari Bahasa Indonesia sedikit lupa dan Bahasa Inggris kayaknya sulit. Insya Allah, perlahan-lahan sembuh. Aamiin.
+Saat ini saya sedang berjuang untuk sembuh dari stroke pada tanggal 3 oktober 2018 sampai hari ini. Strokenya saya di otak kiri hingga +7 jam atau -8 jam. Mendapatkan medis sebelum saraf stroke 4,5 jam. Saya sekira lebih +-2,5 jam.
 
-Allah itu baik. 🙂
+Paham sekali dan apa saja tahu saya. Masa lalu. Mengerti. Bicaranya saja dan kata-katanya saja dalam bahasa Indonesia itu sudah agak lupa; sama dengan bahasa Inggris. Bahasa Inggris khususnya ini, lupa atau sulit. Konteksnya belajar lagi, bicara lagi, belajar lagi dan menulis lagi. Insya'Allah.
+Coding dirilis tanggal 7 Januari 2020.
+Insya'Allah, perlahan-lahan dari sembuh. Aamiin.
+
+Allah ﷻ itu Maha Baik. 🙂
 
 ### English (translate[.]google[.]co[.]id)
-I'm struggling to recover from a stroke on October 03, 2018-today. This coding is a bit forgotten. The words from Indonesian are a little forgotten and English seems difficult. Insya Allah, slowly recover. Aamiin.
+I am currently struggling to recover from a stroke on October 3 2018 to today. My stroke was in the left brain up to +7 hours or -8 hours. Get medical before nerve stroke 4.5 hours. I think more +-2.5 hours.
 
-Allah is good. 🙂
+Understand once and anything knows me. Past. Understand. Just the way he spoke and his words in Indonesian were somewhat forgotten; same with English. English especially this, forgot or difficult. The context is learning again, talking again, studying again and writing again. Insya'Allah.
+Coding was released on January 7, 2020.
+God willing, slowly from recovering. Amen.
+
+Allah ﷻ is Most Good. 🙂
 
 ---
 [GitHub](https://github.com/ockibagusp) | [LinkedIn](https://www.linkedin.com/in/ockibagusp) | [Twitter](https://twitter.com/ockibagusp)
