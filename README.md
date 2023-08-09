@@ -36,7 +36,7 @@
 
 ---
 ### Bahasa Indonesia
-Saat ini saya sedang berjuang untuk sembuh dari stroke pada tanggal 3 oktober 2018 sampai hari ini. Strokenya saya di otak kiri hingga +7 jam atau -8 jam. Mendapatkan medis sebelum saraf stroke 4,5 jam. Saya sekira lebih +-2,5 jam.
+Saat ini saya sedang berjuang untuk sembuh dari stroke pada tanggal 3 oktober 2018 sampai hari ini. Saya itu strokenya di otak kiri hingga 7 jam atau lebih. Mendapatkan medis sebelum saraf stroke 4,5 jam. Saya sekira lebih 2,5 jam.
 
 Paham sekali dan apa saja tahu saya. Masa lalu. Mengerti. Bicaranya saja dan kata-katanya saja dalam bahasa Indonesia itu sudah agak lupa; sama dengan bahasa Inggris. Bahasa Inggris khususnya ini, lupa atau sulit. Konteksnya belajar lagi, bicara lagi, belajar lagi dan menulis lagi. Insya'Allah.
 Coding dirilis tanggal 7 Januari 2020.
@@ -45,7 +45,7 @@ Insya'Allah, perlahan-lahan dari sembuh. Aamiin.
 Allah ﷻ itu Maha Baik. 🙂
 
 ### English (translate[.]google[.]co[.]id)
-I am currently struggling to recover from a stroke on October 3 2018 to today. My stroke was in the left brain up to +7 hours or -8 hours. Get medical before nerve stroke 4.5 hours. I think more +-2.5 hours.
+I am currently struggling to recover from a stroke on October 3 2018 to today. My stroke was in the left brain up to 7 hours or more. Get medical before nerve stroke 4.5 hours. I think more 2.5 hours.
 
 Understand once and anything knows me. Past. Understand. Just the way he spoke and his words in Indonesian were somewhat forgotten; same with English. English especially this, forgot or difficult. The context is learning again, talking again, studying again and writing again. Insya'Allah.
 Coding was released on January 7, 2020.
