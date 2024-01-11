@@ -36,7 +36,7 @@
 
 ---
 ### Bahasa Indonesia
-Saat ini saya sedang berjuang untuk sembuh dari penyakit stroke pada tanggal 3 oktober 2018 sampai hari ini. Saya terserang stroke secara mendadak. Pendarahan di otak kiri hingga 7 jam atau lebih. Ahli Saraf mengatakan bahwa sebelum stroke 4,5 jam pertama adalah periode emas. Saya melewati 4,5 jam pertama atau kurang lebih "periode emas" ditambah lebih 2,5 jam (>7 jam-4.5 jam).
+Saat ini saya sedang berjuang untuk sembuh dari penyakit stroke pada tanggal 3 oktober 2018 sampai hari ini. Saya terserang stroke secara mendadak. Pendarahan di otak kiri hingga 7 jam atau lebih. Ahli Saraf mengatakan bahwa sebelum stroke 4,5 jam pertama adalah periode emas. Saya melewati 4,5 jam pertama atau kurang lebih "periode emas" ditambah lebih 2,5 jam (>7 jam lebih lama dari 4,5 jam pada periode emas).
 
 Paham sekali dan apa saja tahu saya. Masa lalu. Mengerti. Bicaranya saja dan kata-katanya saja dalam bahasa Indonesia itu sudah agak lupa; sama dengan bahasa Inggris. Bahasa Inggris khususnya ini, lupa atau sulit. Konteksnya belajar lagi, bicara lagi, belajar lagi dan menulis lagi. Insya'Allah.
 Coding dirilis tanggal 7 Januari 2020.
